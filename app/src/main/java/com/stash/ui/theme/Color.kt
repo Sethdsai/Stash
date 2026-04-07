@@ -1,0 +1,28 @@
+package com.stash.ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+val Primary = Color(0xFFE8913A)
+val PrimaryDark = Color(0xFFC87A2E)
+val PrimaryLight = Color(0xFFFFCC80)
+val OnPrimary = Color(0xFFFFFFFF)
+val Secondary = Color(0xFFFFF3E0)
+val Background = Color(0xFFF8F9FA)
+val Surface = Color(0xFFFFFFFF)
+val OnBackground = Color(0xFF1A1A2E)
+val OnSurface = Color(0xFF1A1A2E)
+val Outline = Color(0xFFE0E0E0)
+val Error = Color(0xFFE53935)
+val Success = Color(0xFF43A047)
+val StorageBg = Color(0xFF16213E)
+val StorageBgLight = Color(0xFF1A2744)
+val OwnerGold = Color(0xFFFFB300)
+val OwnerGoldBg = Color(0xFFFFF8E1)
+val UserBlue = Color(0xFF42A5F5)
+val SendColor = Color(0xFFFF7043)
+val ReceiveColor = Color(0xFF66BB6A)
+val CloudColor = Color(0xFFAB47BC)
+val FileColor = Color(0xFF29B6F6)
+val MutedText = Color(0xFF78909C)
+val LightGray = Color(0xFFF5F5F5)
+val CardShadow = Color(0x14000000)
